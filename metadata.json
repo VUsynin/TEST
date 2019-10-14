@@ -2,7 +2,7 @@
   "$type": "Comindware.Platform.Contracts.TransferMetadata, Comindware.Platform.Contracts",
   "Name": "TEST1Sol",
   "Alias": "TEST1Sol",
-  "ExportDate": "2019-10-13T15:18:37.2116887Z",
+  "ExportDate": "2019-10-14T08:52:19.0518572Z",
   "Database": "af0d497a-986e-4ede-a47a-ae2b184ee9c5",
   "Server": "http://localhost/",
   "Version": "3.5.389.0",
@@ -10,8 +10,8 @@
     "$type": "Comindware.Platform.Contracts.TransferStatistics, Comindware.Platform.Contracts",
     "RecordTemplates": {
       "$type": "Comindware.Platform.Contracts.SuccessRate, Comindware.Platform.Contracts",
-      "Found": 0,
-      "Exported": 0
+      "Found": 1,
+      "Exported": 1
     },
     "AccountTemplates": {
       "$type": "Comindware.Platform.Contracts.SuccessRate, Comindware.Platform.Contracts",
